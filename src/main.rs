@@ -85,7 +85,7 @@ fn main() {
 
     /*todo!("Add a loop expression to fulfill orders for 6 cars, initialize `order` variable to 1")*/
 
-    while order <= 6 {
+    while order <= 11 {
         // Call car_factory to fulfill order
         // Add order <K, V> pair to "orders" hash map
         // Call println! to show order details from the hash map
